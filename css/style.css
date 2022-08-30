@@ -1,0 +1,68 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    background-color: aliceblue;
+    margin-left: 100px;
+}
+
+#titulo{
+    font-size: 30px;
+}
+
+#titulo p{
+    margin-top: 30px;
+    font-size: 25px;
+    
+}
+
+h1,h3,h5{
+    font-family: 'Amatic SC', cursive;
+}
+
+div.div{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+div.div section{
+    width: 30%;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+#imagem{
+    padding-top: 50px;
+}
+
+img{
+    width: 300px;
+    border-radius: 150px;
+}
+
+#sobre{
+    font-size: 20px;
+    padding-top: 50px;
+}
+
+#sobre p{
+    text-align: justify;
+}
+
+#detalhes{
+    font-size: 20px;
+    text-align: left;
+    margin-top: 35px;
+}
+
+#detalhes p,h5{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#detalhes h3{
+    font-size: 25px;
+}
+
+#detalhes h5{
+    font-size: 18px;
+}
